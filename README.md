@@ -1,5 +1,6 @@
 # LesA_model
 ## Prediction model of LesA structure (Q87AW0)
+Author : Nicolas Favelin
 
 Description of repository files:
 
