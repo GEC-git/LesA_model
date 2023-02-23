@@ -26,4 +26,5 @@ Description of repository files:
   Representation of enzymatic pocket of LesA. 
   The 3 amino-acids of the catalytic triad are colored in magenta (selection cat_triad). The mesh and surface representations allow to visualize the inside of the pocket.
 
-### To download files click on Code > Download ZIP
+### To download files click on Code > Download ZIP or click below 
+==> https://github.com/GEC-git/LesA_model/archive/refs/heads/main.zip
